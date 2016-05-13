@@ -1,5 +1,5 @@
 # node-exercise
-A little exercise using a Star Wars API
+A little exercise using a Star Wars API [https://swapi.co/](https://swapi.co/)
 
 ## Goal
 Make a small express server with endpoints centered around Star Wars. 
@@ -7,6 +7,7 @@ This will hopefully demonstrate to us abilities to make an express app, consume 
 
 ## Requirements
 * Make an express server with at least the endpoints listed below
+* Use the API at [https://swapi.co/](https://swapi.co/) to get your Star Wars Data 
 * When making paginated calls, limit the response to 10, so you can actually demonstrate using pagination to get all of the data
 
 
