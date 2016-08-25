@@ -1,0 +1,10 @@
+{
+  "name": "exercise",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "request": "latest",
+    "url": "latest"
+  }
+}
