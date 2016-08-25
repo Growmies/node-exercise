@@ -1,0 +1,34 @@
+angular.module('appnew', []).controller('maincontroller', function($scope) {
+
+$scope.senddata(){
+    $scope.name =name,
+    $scope.height= height,
+    $scope.mass= mass,
+    $scope.hair_color": hair_color,
+    $scope.skin_color: skin_color,
+    $scope.eye_color: eye_color,
+    $scope.birth_year:birth_year,
+    $scope.gender: gender
+    
+    };. success(function($http,$scope,newService)
+    {
+    http://swapi.co
+    {
+    $scope.data={};
+     $scope.name =data.name,
+    $scope.height=data. height,
+    $scope.mass= data.mass,
+    $scope.hair_color": data.hair_color,
+    $scope.skin_color: data.skin_color,
+    $scope.eye_color: data.eye_color,
+    $scope.birth_year:data.birth_year,
+    $scope.gender: data.gender
+    
+    }
+    
+    
+    }
+    
+        
+    ];
+});

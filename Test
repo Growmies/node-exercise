@@ -1,0 +1,24 @@
+<html>
+
+<head>
+
+</head>
+<body>
+<script>
+<div ng-app="" ng-controller="maincontroller"/>
+name:<input type="text" name="name"/>
+height:<input  type="text" name="height"/>
+mass:<input type="text"  name="mass"/>
+skin_color:<input type="text" name="skin_color" />
+eye_color:<input type="text" name="eye-color"/>
+birth_year:<input type="text" name="birth_year"/>
+gender:<input type="radio" name="male" value="1"> Male 
+        <input type="radio" name="female" value="0"> Female
+        
+<input type="button" value="submit" ng-model="senddata()" />
+      
+
+</div>
+</script>
+
+</body>

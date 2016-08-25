@@ -1,0 +1,28 @@
+app.service('newService', function() {
+    this.senddata()= function ($http,$scope) {
+        
+        http://swapi.co/api/planets/1/
+        {
+        $scope.data={};
+   $scope.films: [
+         $scope.film1= "http://swapi.co/api/films/1/",
+          $scope.film2="http://swapi.co/api/films/2/",
+         $scope.film3 "http://swapi.co/api/films/3/"
+      ],
+      $scope.species: [
+          $scope.species1="http://swapi.co/api/species/1/"
+      ],
+      $scope.vehicles: [
+         $scope.vehicle14= "http://swapi.co/api/vehicles/14/",
+          $scope.vehicle30="http://swapi.co/api/vehicles/30/"
+      ],
+      $scope.starships: [
+          $scope.starships12="http://swapi.co/api/starships/12/",
+         $scope.starships22= "http://swapi.co/api/starships/22/"
+      ],
+      $scope.created= "2014-12-09T13:50:51.644000Z",
+      $scope.edited= "2014-12-10T13:52:43.172000Z",
+      $scope.url= "http://swapi.co/api/people/1/"
+        
+    }
+});
