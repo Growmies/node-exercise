@@ -1,0 +1,7 @@
+app.service('newService', function() {
+    this.senddata()= function ($http,$scope) {
+        
+        http://swapi.co/api/planets/1/
+        
+    }
+});
