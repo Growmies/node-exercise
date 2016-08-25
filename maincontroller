@@ -10,7 +10,7 @@ $scope.senddata(){
     $scope.birth_year:birth_year,
     $scope.gender: gender
     
-    };. success(function($http,$scope )
+    };. success(function($http,$scope,newService)
     {
     http://swapi.co
     {
