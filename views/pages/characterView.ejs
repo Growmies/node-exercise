@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body class="container">
+<h1><%= message %></h1>
+
+<ul>
+    <% characters.forEach(function(character) { %>
+    <h2><%= character.name %></h2>
+      <li>Name: <%= character.name %></li>
+      <li>Height: <%= character.height %></li>
+      <li>Mass: <%= character.mass %></li>
+      <li style="color: <%= character.hair_color %>">Hair color: <%= character.hair_color %></li>
+      <li style="color: <%= character.skin_color %>">Skin color: <%= character.skin_color %></li>
+      <li style="color: <%= character.eye_color %>">eye_color: <%= character.eye_color %></li>
+      <li>birth_year: <%= character.birth_year %></li>
+      <li>gender: <%= character.gender %></li>
+      <li>films: <%= character.films %></li>
+      <li>species: <%= character.species %></li>
+    <% }); %>
+</ul>
+
+</body>
+</html>
