@@ -15,7 +15,7 @@ This will hopefully demonstrate to us abilities to make an express app, RESTful 
             - Residents
         - An endpoint that returns data about ALL planets in the API.
 * Use the API at [https://swapi.co/](https://swapi.co/) to get your Star Wars Data 
-* When making paginated calls, limit the response to 10, so you can actually demonstrate using pagination to get all of the data.
+* When making calls to fetch people and planets, although you could fetch the entire list at once, limit each response to 10, so you can demonstrate that you understand how to use their API and pagination to get all of the data.  Your response should still be an array of ALL the objects from the SWAPI API.
 * All endpoints should return JSON.
 
 ## Endpoints
