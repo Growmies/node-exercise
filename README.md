@@ -8,12 +8,12 @@ This will hopefully demonstrate to us abilities to make an express app, RESTful 
 ## General
 * Make a RESTful API using express that fetches and returns the following:
     - People
-        - Individual - An endpoint that returns all data about 1 person. 
-        - All - An endpoint that returns data about ALL people in the API.
+        - An endpoint that returns all data about 1 person. 
+        - An endpoint that returns data about ALL people in the API.
     - Planets
-        - Individual - An endpoint that returns all data about 1 planet.
+        - An endpoint that returns all data about 1 planet.
             - Residents
-        - All - An endpoint that returns data about ALL planets in the API.
+        - An endpoint that returns data about ALL planets in the API.
 * Use the API at [https://swapi.co/](https://swapi.co/) to get your Star Wars Data 
 * When making paginated calls, limit the response to 10, so you can actually demonstrate using pagination to get all of the data.
 * All endpoints should return JSON.
