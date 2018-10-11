@@ -1,6 +1,11 @@
 # node-exercise
 A little exercise using a Star Wars API [https://swapi.co/](https://swapi.co/)
 
+# How to run this application - 
+```
+npm install
+node src/app.js
+```
 ## Goal
 We want to know that you can: 
 * Consume and manipulate API data 
