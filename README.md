@@ -1,5 +1,5 @@
 # node-exercise
-A little exercise using a Star Wars API [https://swapi.co/](https://swapi.co/)
+A little exercise using a Star Wars API [https://swapi.dev/](https://swapi.dev/)
 
 ## Goal
 We want to know that you can: 
