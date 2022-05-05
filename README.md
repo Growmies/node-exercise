@@ -4,7 +4,7 @@ A little exercise using a Star Wars API [https://swapi.dev/](https://swapi.dev/)
 ## Goal
 We want to know that you can: 
 * Consume and manipulate API data 
-* Use pagination to get the complete list of all of a resource at once.  (Swapi's people endpoint returns 10 at a time by default.  We need the full list of 87)
+* Use pagination to get the complete list of all of a resource at once.  (Swapi's people endpoint returns 10 at a time by default.  We need the full list of 80+ but this count changes from time to time. It needs to be dynamic.)
 * Keep the task simple.  (Don't engineer for all possible future solutions, just solve the task at hand).
 * Sort an array of objects.
 * Replace object field values with more appropriate data.
